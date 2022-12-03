@@ -1,0 +1,48 @@
+body{
+    background-color: #AF7AC5 ;
+font-family: Arial, Helvetica, sans-serif;
+margin: 0%;
+padding: 0%;
+}
+
+.imagen{
+    width: 800px;
+}
+
+#Integrantes{
+    width: 300px;
+    border-radius: 20px;
+    border:6px #a01930;
+}
+
+#ra{text-align: center;
+    border-radius: 20px;
+    border:6px #a01930;}
+#ra img{
+width:400px;
+text-align: center;
+
+}
+
+#gallery{
+    text-align: center;
+}
+
+#Integrantes img{
+    width: 200px;
+    border-radius: 20px;
+    border: 6px solid #a01930;
+    }
+
+#gallery img{
+width: 900px;
+text-align: center;
+border-radius: 20px;
+border: 6px solid #a01930;
+}
+
+#dragon{
+    width: 800px;
+    border-radius: 20px;
+    border: 6px solid #a01930;
+}
